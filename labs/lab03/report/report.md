@@ -76,41 +76,41 @@ header-includes:
 
 Перешел в каталог курса, который сформировал при выполнении лабораторной работы №2 и обновил локальный репозиторий, скачав изменения из удаленного репозитория. (Рис. 2.1)
 
-![Перемещение в рабочий каталог](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image1.png)
+![Перемещение в рабочий каталог] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image1.png)
 
 Перешел в каталог с шаблоном по лабораторной работе №3. Провел компиляцию шаблона с использованием Makefile.(Рис. 2.2)
 
-![Перемещение в каталог и проведение компиляции шаблона](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image2.jpg)
+![Перемещение в каталог и проведение компиляции шаблона] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image2.jpg)
 
 Удалил полученные файлы.(Рис. 2.3)
 
-![Удаление полученных файлов файлов](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image3.jpg)
+![Удаление полученных файлов файлов] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image3.jpg)
 
 Открыл файл report.md, внимательно ознакомился и начал заполнять отчет.(Рис. 2.4)
 
-![Заполнение отчета](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image4.png)
+![Заполнение отчета] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image4.png)
 
 Отправим файлы лабараторной работы на Github. (Рис. 2.5)
 
-![Отправка файлов](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image5.png)
+![Отправка файлов] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image5.png) 
 
 # Задание для самостоятельной работы.
 
 Захожу в каталог для лабораторной работы №2. (Рис. 3.1)
 
-![Каталог для лабораторной работы](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image6.png)
+![Каталог для лабораторной работы] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image6.png)
 
 Заполняю титульный лист для лабораторной работы (Рис. 3.2)
 
-![Заполнение титульного листа](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image7.png)
+![Заполнение титульного листа] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image7.png)
 
 Заполняю уже само выполнение лабораторной работы (Рис. 3.3)
 
-![Выполнение лабораторной работы](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image8.png)
+![Выполнение лабораторной работы] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image8.png)
 
 Перемещаюсь в каталог, откуда буду отправлять файлы на сам GitHub. (Рис. 3.4)
 
-![Перемещение в каталог для отправки](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image9.png)
+![Перемещение в каталог для отправки] (/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image9.png)
 
 # Вывод
 
