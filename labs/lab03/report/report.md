@@ -90,5 +90,11 @@ header-includes:
 
 ![Заполнение отчета](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image4.png)
 
+Отправим файлы лабараторной работы на Github. (Рис. 2.5):
+
+![Отправка файлов](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab03/report/image/image5.png)
+
+#Задание для самостоятельной работы.
+
 
 
