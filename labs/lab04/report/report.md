@@ -110,7 +110,9 @@ header-includes:
 
 ![Создание каталога для первой лабораторной](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab04/report/image/9.png)
 
-Отправка их на сервер GitHub (Рис. 3.1)
+Отправка их на сервер GitHub (Рис. 3.3)
+
+![Отправка на сервер](/home/flory/work/study/2023-2024/Архитектура компьютера/arch-pc/labs/lab04/report/image/10.png)
 
 
 
